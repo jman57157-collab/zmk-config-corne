@@ -22,7 +22,7 @@
    &kp ESC   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SQT    &trans
    &kp TAB &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O &kp RET
    &kp LGUI &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp LALT
-                  &mo 1 &kp SPACE &kp LCTRL   &kp LSHFT &kp BSPC &mo 2
+                  &mo 2 &kp SPACE &kp LCTRL   &kp LSHFT &kp BSPC &mo 1
                         >;
                 };
                 lower_layer {
