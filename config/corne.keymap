@@ -16,12 +16,12 @@
 // -----------------------------------------------------------------------------------------
 // | ESC  |  Q  |  W  |  f  |  p  |  b  |   |  j  |  l   |  u  |  y  |  '  |      |
 // | TAB  |  a  |  r  |  s  |  t  |  G  |   |  m  |  n   |  e  |  i  |  o  | RET  |
-// | WIN  |  Z  |  X  |  C  |  d  |  v  |   |  k  |  h   |  ,  |  .  |  /  | LALT |
+// | LALT  |  Z  |  X  |  C  |  d  |  v  |   |  k  |  h   |  ,  |  .  |  /  | WIN |
 //                    | mo2 | SPC |CTRL |   |SHFT | BSPC | mo1 |
                         bindings = <
    &kp ESC   &kp Q &kp W &kp F &kp P &kp B   &kp J &kp L  &kp U     &kp Y   &kp SQT    &trans
    &kp TAB &kp A &kp R &kp S &kp T &kp G   &kp M &kp N  &kp E     &kp I   &kp O &kp RET
-   &kp LGUI &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp LALT
+   &kp LALT &kp Z &kp X &kp C &kp D &kp V   &kp K &kp H  &kp COMMA &kp DOT &kp FSLH &kp LGUI
                   &mo 2 &kp SPACE &kp LCTRL   &kp LSHFT &kp BSPC &mo 1
                         >;
                 };
